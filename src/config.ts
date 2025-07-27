@@ -1,17 +1,17 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Luciana Ma",
+  title: "Product Manager",
+  description: "A Space of Crafted Creativity and Care",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "lucianama1996@outlook.com",
+    linkedin: "https://linkedin.com/in/maluciana",
+    substack: "https://lucianama.substack.com/",
+    github: "https://github.com/LucianaMa1",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I am a multidisciplinary creator and strategist driven by a passion for human-centered design, personal growth, and crafting meaningful digital experiences.",
+  skills: ["UX Design", "Vibe Coding", "Data-Driven Decision Making", "Product Roadmapping", "User Research", "Go-to-Market"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
