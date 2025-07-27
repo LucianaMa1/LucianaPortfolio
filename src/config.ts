@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Luciana Ma",
+  name: "Luciana (Xinyuan) Ma",
   title: "Product Manager",
   description: "A Space of Crafted Creativity and Care",
   accentColor: "#1d4ed8",
