@@ -7,4 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
+  site: 'https://LucianaMa1.github.io',
+  base: 'my-repo',
 });
