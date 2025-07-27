@@ -8,5 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://LucianaMa1.github.io',
-  base: 'my-repo',
+  base: '/LucianaPortfolio/',
 });
